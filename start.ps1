@@ -1,0 +1,1 @@
+Invoke-Expression "& `".\build\Debug\main.exe`""
